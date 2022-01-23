@@ -3,7 +3,7 @@
 Chatroom application using TCP transport layer protocol. Simple greetings are sent once the client connects and leaves. Multiple ports are checked when connecting to port. 
 
 ## Upcoming Features
-Currently only has client and server roles but soon admin, host, levels and scores will be added. Also admin features like kick, mute and warming will be added as well. 
+Currently only has client and server roles but soon admin, host, levels and scores will be added. Also admin features like kick, mute and warning will be added as well. 
 
 ## Screenshot
 
